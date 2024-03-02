@@ -135,7 +135,7 @@ body {
 }
 
 
-/* animation configurations */
+/* animation configuration */
 @keyframes moveInLeft {
     0% {
         opacity: 0;
